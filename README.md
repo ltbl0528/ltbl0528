@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ltbl0528
 - 👀 I’m interested in Web Programming in Java(Back-end), Mobile Programming with Android Studio!
-- 🌱 I’m currently learning Spring Boot
+- 🌱 I’m currently learning Spring Boot, Kotlin, Data Structure and Algorithm with Python.
 - 📫 How to reach me -> email : ltbl0528@gmail.com
 
 <!---
